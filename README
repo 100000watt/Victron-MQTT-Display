@@ -1,5 +1,7 @@
 This code is for visualize the MQTT data sended from Solar Assistant software via MQTT
 It use a ESP-32 hardware and a ILI9341 2.8 inch 320*240 display via SPI interface
 
+Thi is a initial release, in the future I add a schematic and a guide for the use
+
 PLEASE donate a coffee to me at 100000watt@live.it paypal account :)
 Thank-you
